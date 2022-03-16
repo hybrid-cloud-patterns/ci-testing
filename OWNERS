@@ -1,0 +1,18 @@
+filters:
+  ".*":
+    reviewers:
+    - mbaldessari
+    - beekhof
+    - claudiol
+    - day0hero
+    - ipbabble
+    - mhjacks
+    - mdstjean
+    - aherr
+    approvers:
+    - mbaldessari
+    - beekhof
+    - claudiol
+    - day0hero
+    - ipbabble
+    - mhjacks
