@@ -1,5 +1,3 @@
-# Start Here
+# Just a testing repo
 
-If you've followed a link to this repo, but are not really sure what it contains
-or how to use it, head over to http://hybrid-cloud-patterns.io/multicloud-gitops/
-for additional context and installation instructions
+This is used to play with CI and nothing else.
