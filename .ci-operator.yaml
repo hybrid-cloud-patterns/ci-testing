@@ -1,0 +1,4 @@
+build_root_image:
+  name: "4.9"
+  namespace: ocp
+  tag: cli
